@@ -1,1 +1,11 @@
 com\inf4705\tp1\ApplicationStartup.class
+com\inf4705\tp1\InvalidMatrixFormatException.class
+com\inf4705\tp1\calculator\MatrixCalculator.class
+com\inf4705\tp1\model\Matrix.class
+com\inf4705\tp1\calculator\StrassenMatrixCalculator.class
+com\inf4705\tp1\filereader\FileReader.class
+com\inf4705\tp1\exception\InvalidMatrixesDimensionsException.class
+com\inf4705\tp1\exception\MatrixMultiplicatorException.class
+com\inf4705\tp1\Logger.class
+com\inf4705\tp1\calculator\StandardMatrixCalculator.class
+com\inf4705\tp1\calculator\StrassenSeuilMatrixCalculator.class
