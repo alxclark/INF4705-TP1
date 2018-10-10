@@ -1,4 +1,4 @@
-package com.inf4705.tp1.filereader;
+package com.inf4705.tp1.filemanager;
 
 import java.util.Arrays;
 import java.util.Scanner;

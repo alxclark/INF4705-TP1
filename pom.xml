@@ -23,6 +23,7 @@
 							<mainClass>com.inf4705.tp1.ApplicationStartup</mainClass>
 						</manifest>
 					</archive>
+					<outputDirectory>scripts/src</outputDirectory>
 				</configuration>
 			</plugin>
 			<plugin>
