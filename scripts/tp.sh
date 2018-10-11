@@ -11,7 +11,8 @@ case $key in
     shift
     ;;
     -e)
-    EX_PATH="$2 $3"
+    EX_PATH1=$2
+    EX_PATH2=$3
     shift
     shift
     ;;
@@ -25,5 +26,4 @@ case $key in
 esac
 shift
 done
-echo $EX_PATH
-java -jar ./src/tp1-1.0-SNAPSHOT.jar $ALGO $EX_PATH $OPTIONS
+java -jar ./src/tp1-1.0-SNAPSHOT.jar $ALGO "$EX_PATH1" "$EX_PATH2" $OPTIONS

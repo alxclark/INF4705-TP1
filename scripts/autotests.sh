@@ -9,7 +9,7 @@ for algo in {"conv","strassen","strassenSeuil"}; do
 	counter=4
 	for ex1 in $(ls "exemplaires/$serie"); do
 	    for ex2 in $(ls "exemplaires/$serie" | tail -n $counter); do
-		t=$(./tp.sh -a $algo -e $(pwd)/exemplaires/$serie/$ex1 $(pwd)/exemplaires/$serie/$ex2 -t)
+		t=$(./tp.sh -a $algo -e "$(pwd)/exemplaires/$serie/$ex1" "$(pwd)/exemplaires/$serie/$ex2" -t)
 	    done
 	    ((counter--))
 	done

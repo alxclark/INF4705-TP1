@@ -1,7 +1,8 @@
 package com.inf4705.tp1;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
+import java.net.URL;
+import java.net.URLDecoder;
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.Scanner;
@@ -52,11 +53,11 @@ public class ApplicationStartup {
 				Logger.logLine("Operation time: " + time + " milliseconds");
 
 				CSVFileWriter fr = new CSVFileWriter();
-				String execPath = System.getProperty("user.dir");
+				String scriptFolderPath = new File(getJarPath()).getParent();
 				String[] parentFolderPart = new File(matrixLocation1).getParentFile().getAbsolutePath().replace("\\", "/").split("/");
 				String parentFolder = parentFolderPart[parentFolderPart.length - 1];
-				fr.appendResultToFile(execPath + "/INF4705-TP1/scripts/resultats/" + parentFolder + "_" + algorithmArgument + ".csv", algorithmArgument, parentFolder,
-						matrix1.getDimensionX(), time);
+				fr.appendResultToFile(scriptFolderPath + "/resultats/" + parentFolder + "_" + algorithmArgument + ".csv", algorithmArgument,
+						parentFolder, matrix1.getDimensionX(), time);
 			}
 		} catch (IllegalArgumentException e) {
 			Logger.logLine(e.getMessage());
@@ -78,5 +79,12 @@ public class ApplicationStartup {
 		Logger.logLine("Reading file at: " + filePath);
 		File file = new File(filePath);
 		return new Scanner(file);
+	}
+
+	private static String getJarPath() throws UnsupportedEncodingException {
+		URL url = ApplicationStartup.class.getProtectionDomain().getCodeSource().getLocation();
+		String jarPath = URLDecoder.decode(url.getFile(), "UTF-8");
+		String parentPath = new File(jarPath).getParentFile().getPath();
+		return parentPath;
 	}
 }
