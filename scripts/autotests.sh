@@ -15,3 +15,5 @@ for algo in {"conv","strassen","strassenSeuil"}; do
 	done
     done
 done
+$(python.exe src/graphScript.py "C:\Users\fagagnier\Documents\School stuff\inf4705\INF4705-TP1\scripts\resultats\results.csv")
+

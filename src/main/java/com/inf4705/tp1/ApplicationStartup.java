@@ -54,10 +54,7 @@ public class ApplicationStartup {
 
 				CSVFileWriter fr = new CSVFileWriter();
 				String scriptFolderPath = new File(getJarPath()).getParent();
-				String[] parentFolderPart = new File(matrixLocation1).getParentFile().getAbsolutePath().replace("\\", "/").split("/");
-				String parentFolder = parentFolderPart[parentFolderPart.length - 1];
-				fr.appendResultToFile(scriptFolderPath + "/resultats/" + parentFolder + "_" + algorithmArgument + ".csv", algorithmArgument,
-						parentFolder, matrix1.getDimensionX(), time);
+				fr.appendResultToFile(scriptFolderPath + "/resultats/results.csv", algorithmArgument, matrix1.getDimensionX(), time);
 			}
 		} catch (IllegalArgumentException e) {
 			Logger.logLine(e.getMessage());
