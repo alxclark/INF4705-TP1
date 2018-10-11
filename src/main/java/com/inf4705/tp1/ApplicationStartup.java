@@ -22,7 +22,6 @@ public class ApplicationStartup {
 		matrixLocation2 = matrixLocation2.replace("\\", "/");
 
 		boolean withTime = (args.length > 3) ? "-t".equals(args[3]) : false;
-		LocalDateTime timeStarted = LocalDateTime.now();
 
 		try {
 			Matrix matrix1 = getMatrixFromFile(matrixLocation1);
@@ -43,8 +42,10 @@ public class ApplicationStartup {
 				default:
 					throw new IllegalArgumentException("Invalid algorithm argument. Options: [conv | strassen | strassenSeuil]");
 			}
+
+			LocalDateTime timeStarted = LocalDateTime.now();
 			Matrix result = calculator.multiply(matrix1, matrix2);
-			result.print();
+			//result.print();
 
 			if (withTime) {
 				LocalDateTime timeEnded = LocalDateTime.now();

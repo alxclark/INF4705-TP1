@@ -30,7 +30,7 @@ public class FileReader {
 
 	public int[] readLine(Scanner scanner) {
 		String line = scanner.nextLine();
-		Logger.logLine(line);
+		//Logger.logLine(line);
 		String[] values = line.split("\t");
 		return Arrays.stream(values).mapToInt(Integer::parseInt).toArray();
 	}
