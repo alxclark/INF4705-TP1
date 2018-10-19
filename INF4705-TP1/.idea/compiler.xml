@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tp1" />
+        <module name="inf4705" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="tp1" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
