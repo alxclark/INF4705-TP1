@@ -1,310 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="eb3c67e6-35e8-4dac-b8dd-bcd7911188bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/INF4705-TP1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/autotests.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie2/ex_2.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie2/ex_2.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie2/ex_2.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie2/ex_2.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie2/ex_2.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie3/ex_3.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie3/ex_3.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie3/ex_3.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie3/ex_3.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie3/ex_3.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie4/ex_4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie4/ex_4.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie4/ex_4.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie4/ex_4.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie4/ex_4.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie5/ex_5.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie5/ex_5.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie5/ex_5.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie5/ex_5.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie5/ex_5.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie6/ex_6.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie6/ex_6.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie6/ex_6.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie6/ex_6.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie6/ex_6.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie7/ex_7.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie7/ex_7.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie7/ex_7.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie7/ex_7.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/exemplaires/serie7/ex_7.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/resultats/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/resultats/test_constantes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/resultats/test_puissance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/resultats/test_rapport.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/src/graphScript.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/src/tp1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/tp.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/scripts/tp1-A18.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java" beforeDir="false" afterPath="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/ApplicationStartup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/InvalidMatrixFormatException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/calculator/MatrixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/calculator/StandardMatrixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/calculator/StrassenMatrixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/calculator/StrassenSeuilMatrixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/exception/InvalidMatrixesDimensionsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/exception/MatrixMultiplicatorException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/filemanager/CSVFileWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/filemanager/FileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/classes/com/inf4705/tp1/model/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INF4705-TP1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/INF4705-TP1/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
   <component name="CheckStyle-IDEA-workspace">
     <option name="configuration">
       <map>
-        <entry key="last-active-plugin-version" value="5.23.0" />
+        <entry key="last-active-plugin-version" value="5.21.0" />
       </map>
     </option>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1212416264">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="42" />
-          <entry key="md" value="1" />
-          <entry key="py" value="1" />
-          <entry key="sh" value="6" />
-          <entry key="xml" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="42" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="XML" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="10043" />
-          <entry key="py" value="157" />
-          <entry key="sh" value="136" />
-          <entry key="txt" value="12" />
-          <entry key="xml" value="77" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="10043" />
-          <entry key="PLAIN_TEXT" value="148" />
-          <entry key="Python" value="157" />
-          <entry key="XML" value="77" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/Logger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/FileReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/CSVFileWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-152">
-              <caret line="13" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenSeuilMatrixCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenMatrixCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StandardMatrixCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/MatrixCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/INF4705-TP1" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/ApplicationStartup.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/FileReader/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/FileReader/InvalidMatrixFormatException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/Model/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/Logger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/FileReader/FileReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp1/ApplicationStartup.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/FileReader/FileReader.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/test/java/com/inf4705/tp1/fileReader/FileReaderTest.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/Calculator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/exception/MatrixMultiplicatorException.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/exception/InvalidMatrixesDimensionsException.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/StrassenSeuilMatrixMultiplicator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/test/java/com/inf4705/tp1/filereader/FileReaderTest.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filereader/FileReader.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StandardMatrixMultiplicator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenMatrixMultiplicator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenSeuilMatrixMultiplicator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/MatrixMultiplcator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenSeuilMatrixCalculator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/FileWriter.java" />
-        <option value="$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/filemanager/CSVFileWriter.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/Logger.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/model/Matrix.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/scripts/tp.sh" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/scripts/autotests.sh" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/scripts/src/graphScript.py" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/CSVFileWriter.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/FileReader.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/MatrixCalculator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StandardMatrixCalculator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenMatrixCalculator.java" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/pom.xml" />
-        <option value="$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tp1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tp1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
@@ -312,564 +16,82 @@
     <option name="width" value="1026" />
     <option name="height" value="1065" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tp1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tp1" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf4705" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf4705" type="462c0819:PsiDirectoryNode" />
-              <item name="INF4705-TP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tp1" type="462c0819:PsiDirectoryNode" />
-              <item name="filemanager" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file://C:/Users/fagagnier/Documents/School stuff/inf4705/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java&#10;logg&#9;PSI&#9;JAVA://com.inf4705.tp1.Logger" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539177636114" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tp1-1.0-SNAPSHOT.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.inf4705.tp1.calculator" />
-      <recent name="com.inf4705.tp1" />
-      <recent name="com.inf4705.tp1.FileReader" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JAR Application.Execute">
-    <configuration name="FileReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.inf4705.tp1.filemanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.inf4705.tp1.filereader" />
-      <option name="MAIN_CLASS_NAME" value="com.inf4705.tp1.filereader.FileReaderTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileReaderTest.givenAFile_whenCreatingMatrix_thenReadUntilNoLines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.inf4705.tp1.filemanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.inf4705.tp1.filereader" />
-      <option name="MAIN_CLASS_NAME" value="com.inf4705.tp1.filereader.FileReaderTest" />
-      <option name="METHOD_NAME" value="givenAFile_whenCreatingMatrix_thenReadUntilNoLines" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileReaderTest.givenAFile_whenReadingLine_thenGetArray" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.inf4705.tp1.filemanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.inf4705.tp1.filereader" />
-      <option name="MAIN_CLASS_NAME" value="com.inf4705.tp1.filereader.FileReaderTest" />
-      <option name="METHOD_NAME" value="givenAFile_whenReadingLine_thenGetArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Execute" type="JarApplication" factoryName="JAR Application">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/tp1-1.0-SNAPSHOT.jar" />
-      <option name="PROGRAM_PARAMETERS" value="strassen &quot;C:\Users\fagagnier\Documents\School stuff\inf4705\exemplaires\serie5\ex_5.1&quot; &quot;C:\Users\fagagnier\Documents\School stuff\inf4705\\exemplaires\serie5\ex_5.2&quot; -t" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\fagagnier\Documents\School stuff\inf4705" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Maven.BeforeRunTask" enabled="true" file="C:\Users\fagagnier\Documents\School stuff\inf4705\INF4705-TP1/pom.xml" goal="clean install" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/tp1-1.0-SNAPSHOT.jar" />
-      <option name="PROGRAM_PARAMETERS" value="cca1 matrix1 matrix2" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="JAR Application.Execute" />
-      <item itemvalue="JUnit.FileReaderTest.givenAFile_whenReadingLine_thenGetArray" />
-      <item itemvalue="JUnit.FileReaderTest.givenAFile_whenCreatingMatrix_thenReadUntilNoLines" />
-      <item itemvalue="JUnit.FileReaderTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.FileReaderTest" />
-        <item itemvalue="JUnit.FileReaderTest.givenAFile_whenCreatingMatrix_thenReadUntilNoLines" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="eb3c67e6-35e8-4dac-b8dd-bcd7911188bf" name="Default Changelist" comment="" />
-      <created>1536946758478</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1536946758478</updated>
-      <workItem from="1536946760296" duration="1331000" />
-      <workItem from="1536948114236" duration="6362000" />
-      <workItem from="1537805284298" duration="60000" />
-      <workItem from="1537805370305" duration="3233000" />
-      <workItem from="1539112527486" duration="290000" />
-      <workItem from="1539112924206" duration="14866000" />
-      <workItem from="1539129610633" duration="3212000" />
-      <workItem from="1539278173225" duration="5106000" />
-      <workItem from="1539284684312" duration="4455000" />
-      <workItem from="1539290470933" duration="3481000" />
-      <workItem from="1539785985311" duration="6000" />
-      <workItem from="1539907876796" duration="1106000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="FileReaderTest_givenAFile_whenCreatingMatrix_thenReadUntilNoLines - 2018.09.24 at 12h 42m 36s.xml">
-      <configuration name="FileReaderTest.givenAFile_whenCreatingMatrix_thenReadUntilNoLines" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileReaderTest - 2018.09.24 at 12h 42m 50s.xml">
-      <configuration name="FileReaderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileReaderTest - 2018.09.24 at 12h 44m 13s.xml">
-      <configuration name="FileReaderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileReaderTest - 2018.09.24 at 12h 45m 48s.xml">
-      <configuration name="FileReaderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileReaderTest - 2018.09.24 at 13h 44m 15s.xml">
-      <configuration name="FileReaderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileReaderTest_givenAFile_whenReadingLine_thenGetArray - 2018.10.09 at 16h 05m 42s.xml">
-      <configuration name="FileReaderTest.givenAFile_whenReadingLine_thenGetArray" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43508000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26477733" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47508895" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46263346" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32740214" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.2194332" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="SciView" order="9" />
-    </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>scriptFolderPath + &quot;/resultats/&quot; + parentFolder + &quot;_&quot; + algorithmArgument + &quot;.csv&quot;</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>new File(matrixLocation1).getParentFile().getAbsolutePath()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(new File(execPath).getCanonicalPath() + &quot;/INF4705-TP1/scripts/&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(new File(execPath).getCanonicalPath() + &quot;scripts/&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>line.split(&quot;\t&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>line.split(&quot;\t &quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>matrixLocation1.contains(&quot;\'&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp1/Model/Matrix.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp1/InvalidMatrixFormatException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp1/Logger.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp1/ApplicationStartup.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp1/FileReader/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/InvalidMatrixFormatException.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/README.md" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="303" column="19" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/exception/MatrixMultiplicatorException.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/exception/InvalidMatrixesDimensionsException.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/javaws.jar!/com/sun/javaws/exceptions/InvalidArgumentException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/IllegalArgumentException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/test/java/com/inf4705/tp1/filereader/FileReaderTest.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/Logger.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/filemanager/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/model/Matrix.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/calculator/StandardMatrixCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/calculator/MatrixCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/calculator/StrassenSeuilMatrixCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/calculator/StrassenMatrixCalculator.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/time/Duration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1169" column="16" selection-start-line="1169" selection-start-column="16" selection-end-line="1169" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeSource/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/filemanager/CSVFileWriter.java" />
-    <entry file="file://$PROJECT_DIR$/codeSource/src/main/java/com/inf4705/tp1/ApplicationStartup.java" />
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/scripts/autotests.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/scripts/tp.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/model/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/InvalidMatrixFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/scripts/src/graphScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenMatrixCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StandardMatrixCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/MatrixCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/calculator/StrassenSeuilMatrixCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/filemanager/CSVFileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="13" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="1307" column="19" selection-start-line="1307" selection-start-column="19" selection-end-line="1307" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/INF4705-TP1/src/main/java/com/inf4705/tp1/ApplicationStartup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>inf4705</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
